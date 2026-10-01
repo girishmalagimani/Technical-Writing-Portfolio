@@ -70,7 +70,8 @@ Displays new releases, updated clinical guidelines, and featured products. Selec
 
 **Project**: eReader Application User Manual
 
-**Context**: Impelsys developed an eReader tool for the client, to which the client wanted an easy and usable end-user manual.  
+**Context**: Impelsys developed an eReader tool for the client, to which the client wanted an easy and usable end-user manual.
+
 **Achievements**: Delivered concise, task-based procedural guidance to help users navigate complex digital publications, manage persistent annotations (notes, highlights, underlines), create bookmarks, and configure accessibility/display settings.
 
 ## eReader Application User Manual
@@ -96,25 +97,25 @@ The eReader interface consists of three primary areas:
 
 ### Navigate Using the Table of Contents
 
-> 1. On the toolbar, select **Table of Contents**.  
-> 2. Select the arrow next to a section heading to expand sub-sections.  
-> 3. Select any section title to jump directly to that page.
+1. On the toolbar, select **Table of Contents**.  
+2. Select the arrow next to a section heading to expand sub-sections.  
+3. Select any section title to jump directly to that page.
 
 ### Annotations and Notes
 
-> 1. In the reading pane, select the text to annotate.  
->    A floating toolbar appears above the selection.  
-> 2. On the floating toolbar, select **Note**.  
-> 3. In the **Add Note** dialog box, enter your note. The application saves your changes automatically.  
->    A note icon appears next to the annotated text.  
-> 4. Select the note icon to view, edit, or delete the note.
+1. In the reading pane, select the text to annotate.  
+    A floating toolbar appears above the selection.  
+2. On the floating toolbar, select **Note**.  
+3. In the **Add Note** dialog box, enter your note. The application saves your changes automatically.  
+    A note icon appears next to the annotated text.  
+4. Select the note icon to view, edit, or delete the note.
 
 ### Manage Bookmarks
 
-> 1. Navigate to the page you want to mark.  
-> 2. On the toolbar, select **Bookmark**, then select **Add Bookmark**.  
-> 3. In the **Bookmark Name** box, enter a title (up to 40 characters).  
-> 4. Select **Save**.
+1. Navigate to the page you want to mark.  
+2. On the toolbar, select **Bookmark**, then select **Add Bookmark**.  
+3. In the **Bookmark Name** box, enter a title (up to 40 characters).  
+4. Select **Save**.
 
 ### Adjust Display Settings
 
@@ -124,4 +125,3 @@ From the toolbar, configure reading preferences:
 * **Font Size:** Select **Font (Aa)**, then drag the slider to change text size.  
 * **Color Theme:** Select **Theme**, then choose **Light** or **Dark** mode.  
 * **Full Screen:** Select **Maximize** to expand the window to full screen. Select **Minimize** to restore windowed viewing.
-
