@@ -1,4 +1,4 @@
-# Working Samples
+# Technical Writing Portfolio
 ## About This Repository
 
 This repository contains curated technical writing samples authored by Girish Malagimani, showcasing structured authoring, topic-based information architecture, and end-to-end user documentation for enterprise and digital product platforms
